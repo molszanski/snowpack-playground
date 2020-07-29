@@ -5,6 +5,8 @@ This is playground for:
 - Interesection Observer as substitute `react-virtualized`
 - Snowpack
 
+Demo: https://virtual-poke.vercel.app/
+
 ## The Idea
 
 Move all the heavy lifting to the browser
